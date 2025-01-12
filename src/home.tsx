@@ -182,8 +182,8 @@ const Home: FC = () => {
                 p: 4,
                 backgroundColor: "rgba(108, 122, 137, 0.8)",
                 overflowY: "auto",
-                height: "45vh",
-                maxHeight: "45vh",
+                height: "40vh",
+                maxHeight: "40vh",
               }}
             >
               {chatHistory.map((chat) => (
